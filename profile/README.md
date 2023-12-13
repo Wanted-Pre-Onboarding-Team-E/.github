@@ -31,7 +31,7 @@
 > 서비스에서 확인할 수 있도록 `REST API`로 구현한 `소셜 미디어 통합 Feed 서비스 어플리케이션`입니다.
 
 - **Github Repository 바로가기**
-  > [:heart: FeedMoa](https://github.com/Wanted-Pre-Onboarding-Team-E/lets-go-here)
+  > [:heart: FeedMoa](https://github.com/Wanted-Pre-Onboarding-Team-E/feed-moa)
 
 ### 2. 지리기반 맛집 추천 웹 서비스
 
@@ -39,7 +39,7 @@
 > 음식을 좋아하는 사람들 간의 소통과 공유를 촉진할 수 있도록 `REST API`로 구현한 지리기반 `맛집 추천 웹 서비스 어플리케이션`입니다.
 
 - **Github Repository 바로가기**
-  > [:sushi: 여기가자](https://github.com/Wanted-Pre-Onboarding-Team-E/geography-based-restaurant-recommendation)
+  > [:sushi: 여기가자](https://github.com/Wanted-Pre-Onboarding-Team-E/lets-go-here)
 
 ### 3. 예산 관리 어플리케이션
 
