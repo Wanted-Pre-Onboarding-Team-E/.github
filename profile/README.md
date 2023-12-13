@@ -51,7 +51,7 @@
 |   NAME   | GITHUB                                                                               |  
 |:--------:|:-------------------------------------------------------------------------------------|
 | **강희수**  | [N%(NPercent)](https://github.com/kangssu/NPercent)                                  |
-| **박동훈**  | [돈이 Money](https://github.com/laetipark/money-is-money)                              |
+| **박동훈**  | [돈이머니](https://github.com/laetipark/money-is-money)                                  |
 | **신은수**  | [Budget Keeper](https://github.com/dawwson/budget-keeper-be)                         |
 | **이드보라** | [Budget Control Application](https://github.com/sayapin1/budget-control-application) |
 | **이승원**  | [Budget Management System](https://github.com/tomeee11/budget_management_system)     |
